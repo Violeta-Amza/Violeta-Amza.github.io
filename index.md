@@ -1,5 +1,5 @@
 
-[Image](vio.jpeg) 
+![Image](vio.jpeg) 
 
 ## Elena Violeta Amza 
 
@@ -26,6 +26,6 @@ Augmentation of the decoder component in neural translation models for code-gene
 
 ### Contact
 
-[Link] amzavioleta@gmail.com
-[Link] linkedin.com/in/elena-violeta-amza-897609173
+[Link](amzavioleta@gmail.com)
+[Link](linkedin.com/in/elena-violeta-amza-897609173)
 
