@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Violeta-Amza/Violeta-Amza.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](vio.jpeg) ## Elena Violeta Amza 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+I am very dedicated in what I do and I gladly accepts an intellectual challenge.
+I am an organized person and I like to keep a checklist and make sure that each item gets the attention it needs. Also, I try to be careful about the details and I like to plan my daily, weekly, and long-term work projects. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Thesis
+Augmentation of the decoder component in neural translation models for code-generation applications
 
-```markdown
-Syntax highlighted code block
+### Courses and Trainings
 
-# Header 1
-## Header 2
-### Header 3
+- analysis of algorithms
+- parallel and distributed programming
+- operating systems
+- microcontroller programming
+- communication protocols
+- algorithms and data structures
+- object oriented programming
+- assembly languages
+- operating systems(linux/windows)
+- openMP/ openGL libraries
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+[Link] amzavioleta@gmail.com
+[Link] linkedin.com/in/elena-violeta-amza-897609173
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Violeta-Amza/Violeta-Amza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
