@@ -1,5 +1,7 @@
 
-[Image](vio.jpeg) ## Elena Violeta Amza 
+[Image](vio.jpeg) 
+
+## Elena Violeta Amza 
 
 ### About
 
