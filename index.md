@@ -26,6 +26,6 @@ Augmentation of the decoder component in neural translation models for code-gene
 
 ### Contact
 
-[EMAIL@vio](amzavioleta@gmail.com)
-[FACEBOOK@vio](https://www.facebook.com/violeta.amza)
+[EMAIL@vio](amzavioleta@gmail.com)<br>
+[FACEBOOK@vio](https://www.facebook.com/violeta.amza)<br>
 [LINKEDIN@vio](linkedin.com/in/elena-violeta-amza-897609173)
